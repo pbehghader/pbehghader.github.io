@@ -22,7 +22,7 @@
                     <!--
                     <p>My name is Pooyan Behnamghader. I am a PhD student in Computer Science at University of Southern California. My advisor is <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a>. I am a member of the <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a> at USC.</p>
                     -->
-                    <p> I am a first year PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>. I am a member of the <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> led by <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> in the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>. </p>
+                    <p> I am a second year PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>. I am a member of the <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> led by <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> in the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>. </p>
 
                     <p>My major areas of interest are:
                         <ul>
