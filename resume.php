@@ -28,11 +28,8 @@
                             Research Interests
                         </h3>
                         <ul>
-                            <li>Software Architecture</li>
-                            <li>Distributed Systems</li>
-                            <li>Programming Languages and Compiler Design</li>
-
-
+                            <li>Software Architecture Recovery, Software Repository Mining</li>
+                            <li>Distributed Systems, Cloud Computing</li>
                         </ul>
                     </div>
 
