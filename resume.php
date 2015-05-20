@@ -279,7 +279,7 @@
                             <ul>
                                 <li>
                                     <p>
-                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “An Empirical Study of Architectural Change in Open-Source Software Systems.” In Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015), Florence, Italy, May 2015.
+                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “An Empirical Study of Architectural Change in Open-Source Software Systems.” In <i>Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015),</i> Florence, Italy, May 2015.
                                     <!--
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"	<strong>to be submitted</strong>
                                     -->
