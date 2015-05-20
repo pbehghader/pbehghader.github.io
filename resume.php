@@ -205,6 +205,27 @@
                         </h3>
 
                         <ul>
+                            <li>
+
+                                <strong>Department of Computer Science, University of Southern California, USA</strong>
+                                <br/>
+                                <div class="date"> Fall 2013 - Present </div>
+                                <strong>Research Assistant</strong> of <strong>Prof. N. Medvidović</strong>
+                                <div class="workDescription">
+                                    <ul >
+                                        <li>
+                                            •   Research Assistant of Prof. N. Medvidović   Fall 2013 – Present
+                                        </br>
+                                            •   Extending and improving ARCADE, a software workbench that employs a suite of architecture-recovery techniques and metrics for different aspects of architectural change
+                                        </br>
+                                            •   Developing a toolset to use cloud computing in order to semi-automatically run large-scale software architecture recovery analyses on the history of systems in software repositories 
+                                        </br>
+                                            •   Improving Mahjong, a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
+                                        </li>
+                                    </ul>
+                                </div>
+
+                            </li>
 
                             <li>
 
