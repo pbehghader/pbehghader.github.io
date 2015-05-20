@@ -275,6 +275,7 @@
                         <h3>
                             Publication
                         </h3>
+                        
                             <ul>
                                 <li>
                                     <p>
@@ -285,7 +286,7 @@
                                     </p>
                                 </li>
                             </ul>
-                        </div>
+                        
                     </div>
                     
                     <div>
