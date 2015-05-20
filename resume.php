@@ -334,14 +334,14 @@
                         <h3>
                             Activities
                         </h3>
-                            
+
                         <ul>
                             <li>
                                 <strong>Department of Computer Science, University of Southern California, USA</strong>
                                 <ul>
                                     <div class="date"> Spring 2014 - Present </div>
                                     <li>
-                                        Board Member: <strong>ACM Student Chapter</strong>
+                                        Board Member: <strong>PhD Student Committee</strong>
                                         
                                     </li>
                                 </ul>
@@ -351,7 +351,7 @@
                                 <ul>
                                     <div class="date"> Fall 2014 – Present </div>
                                     <li>
-                                        Singer: <strong>AApollo Men’s Chorus</strong>
+                                        Singer: <strong>Apollo Men’s Chorus</strong>
                                         
                                     </li>
                                 </ul>
