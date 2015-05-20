@@ -76,7 +76,7 @@
                                      <!--
                                     -->
                                 </p>
-                                    • Also offered fellowships and/or research assistantships from UT Austin (<a target="_blank"href="http://www.utexas.edu/ogs/funding/fellowships/mcd.html">MCD Fellowship</a>), U Illinois (<a target="_blank"href="http://cs.illinois.edu/prospective-students/graduate-students/ms-phd-programs/graduate-fellowships-awards#dept">Department Fellowship</a>), Georgia Tech, UC San Diego, U Toronto, and EPFL
+                                    • Also offered fellowships and/or research assistantships from UT Austin (<a target="_blank"href="http://www.utexas.edu/ogs/funding/fellowships/mcd.html">MCD Fellowship</a>), U Illinois (<a target="_blank"href="http://cs.illinois.edu/prospective-students/graduate-students/ms-phd-programs/graduate-fellowships-awards#dept">Department Fellowship</a>), Georgia Tech, UC San Diego (Fellowship+RA), U Toronto, and EPFL
                                     
                                 <p>
                                 </p>
