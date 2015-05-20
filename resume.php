@@ -124,12 +124,13 @@
                                 <p>
                                     <strong>Ranked 3<sup>rd</sup></strong> in the 16<sup>th</sup><strong> Iran National University Students'</strong> <strong>Olympiad</strong> in Computer Engineering
                                 </br>
-                                    • Member of Iran's National Elites Foundation and received multiple grants
+                                    • Member of <a target="_blank"href="http://en.wikipedia.org/wiki/Iran's_National_Elites_Foundation"><strong>Iran's National Elites Foundation</strong></a> and received multiple grants
                                 </br>
                                     • Qualified to pursue graduate studies in any Iranian university with full scholarship
                                 </p>
                                
                             </li>
+                         <!--
                             <div class="date"> 2011 </div>
                             <li>
                                 <p>
@@ -143,6 +144,7 @@
                                 </p>
 
                             </li>
+                        -->
                             <div class="date"> 2010 </div>
                             <li>
                                 <p>
