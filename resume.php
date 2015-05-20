@@ -275,7 +275,6 @@
                         <h3>
                             Publication
                         </h3>
-                        <div class="workDescription">
                             <ul>
                                 <li>
                                     <p>
