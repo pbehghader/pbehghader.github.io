@@ -128,6 +128,7 @@
                                 </p>
                                 <p>
                                     • Member of Iran's National Elites Foundation and received multiple grants
+                                </br>
                                     • Qualified to pursue graduate studies in any Iranian university with full scholarship
                                 </p>
                             </li>
