@@ -40,7 +40,7 @@
                     <p>
                         You can find my Resume at <a target="_blank" href="resume.php"><strong>web</strong></a> / <a target="_blank" href="PooyanBehnamghader.pdf"><strong>pdf</strong></a>.
                         </br>
-                        Please email me at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a>
+                        You can contact me at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or see <a target="_blank" href="contact.php">contact</a> for further information.
                     </p>
                 </div>
             </div>
