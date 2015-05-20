@@ -37,7 +37,17 @@
                         I received my B.S. in Computer Engineering from the <a target="_blank" href="http://ece.ut.ac.ir/en">School of Electrical and Computer Engineering</a> at <a target="_blank" href="http://ut.ac.ir/en">University of Tehran</a> under the supervision of Dr. <a target="_blank" href="http://ece.ut.ac.ir/en/users/fghassemi">Fatemeh Ghassemi</a> in June 2013.
                         In addition, I worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of Prof. <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
                     </p>
-                    <p>You can find my Resume at <a target="_blank" href="resume.php"><strong>web</strong></a>/<a target="_blank" href="PooyanBehnamghader.pdf"><strong>PDF</strong></a></p>
+                    <p>You can find my Resume at <a target="_blank" href="resume.php"><strong>web</strong></a> / <a target="_blank" href="PooyanBehnamghader.pdf"><strong>pdf</strong></a>.</p>
+                    <h2>Contact</h2>
+                    <div>
+                        <p class="justfied">
+                            <h4>Email:</h4>
+                            <ul class="noBullet">
+                                <li><a href="mailto:behnamghader@gmail.com">behnamghader@gmail.com</a></li>
+                                <li><a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a></li>
+                            </ul>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
