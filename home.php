@@ -38,16 +38,13 @@
                         In addition, I worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of Prof. <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
                     </p>
                     <p>You can find my Resume at <a target="_blank" href="resume.php"><strong>web</strong></a> / <a target="_blank" href="PooyanBehnamghader.pdf"><strong>pdf</strong></a>.</p>
-                    <h2>Contact</h2>
-                    <div>
-                        <p class="justfied">
-                            <h4>Email:</h4>
-                            <ul class="noBullet">
-                                <li><a href="mailto:behnamghader@gmail.com">behnamghader@gmail.com</a></li>
-                                <li><a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a></li>
-                            </ul>
-                        </p>
-                    </div>
+                    <p class="justfied">
+                        <h4>Email:</h4>
+                        <ul class="noBullet">
+                            <li><a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a></li>
+                        </ul>
+                    </p>
+                    
                 </div>
             </div>
         </div>
