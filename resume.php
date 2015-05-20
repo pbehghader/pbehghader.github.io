@@ -332,32 +332,44 @@
                     </div>
                     <div>
                         <h3>
-                            Voluntary Experience
+                            Activities
                         </h3>
+                            
                         <ul>
+                            <li>
+                                <strong>Department of Computer Science, University of Southern California, USA</strong>
+                                <ul>
+                                    <div class="date"> Spring 2014 - Present </div>
+                                    <li>
+                                        Board Member: <strong>ACM Student Chapter</strong>
+                                        
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <strong>Thornton School of Music, University of Southern California, USA</strong>
+                                <ul>
+                                    <div class="date"> Fall 2014 – Present </div>
+                                    <li>
+                                        Singer: <strong>AApollo Men’s Chorus</strong>
+                                        
+                                    </li>
+                                </ul>
+                            </li>
                             <li>
                                 <strong>School of Electrical and Computer Engineering, University of Tehran, Iran</strong>
                                 <ul>
                                     <div class="date"> 2010 - 2011 </div>
                                     <li>
                                         Organizer (secretary): <strong>ACM Student Chapter</strong>
-                                        <br/>
-                                        <div class="workDescription">
-                                            Responsible for managing ICPC contests, community sessions, conferences, and celebrations
-                                        </div>
+                                        
                                     </li>
                                     <div class="date"> 2009 - 2010 </div> 
                                     <li>
                                         Organizer (secretary): <strong>Representatives Community</strong>
-                                        <br/>
-                                        <div class="workDescription">
-                                            Responsible for managing course timetable, exam timetable, community sessions, and college celebrations
-                                        </div>
-
+                                
                                     </li>
                                 </ul>
-
-
                             </li>
                         </ul>
                     </div>
