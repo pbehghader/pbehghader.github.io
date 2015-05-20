@@ -214,8 +214,6 @@
                                 <div class="workDescription">
                                     <ul >
                                         <li>
-                                            •   Research Assistant of Prof. N. Medvidović   Fall 2013 – Present
-                                        </br>
                                             •   Extending and improving ARCADE, a software workbench that employs a suite of architecture-recovery techniques and metrics for different aspects of architectural change
                                         </br>
                                             •   Developing a toolset to use cloud computing in order to semi-automatically run large-scale software architecture recovery analyses on the history of systems in software repositories 
