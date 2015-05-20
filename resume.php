@@ -215,11 +215,14 @@
                                     <ul >
                                         <li>
                                             •   Extending and improving ARCADE, a software workbench that employs a suite of architecture-recovery techniques and metrics for different aspects of architectural change
-                                        </br>
+                                        </li>
+                                        <li>
                                             •   Developing a toolset to use cloud computing in order to semi-automatically run large-scale software architecture recovery analyses on the history of systems in software repositories 
-                                        </br>
+                                        </li>
+                                        <li>
                                             •   Improving Mahjong, a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
                                         </li>
+                                        
                                     </ul>
                                 </div>
 
