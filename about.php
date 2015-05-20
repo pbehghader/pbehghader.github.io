@@ -21,7 +21,7 @@
                     <div class="aboutimage"><img src="images/about.jpg" width="220" alt="" /></div>
                     
                     <p class="justified">
-                    (updated May 2015)
+                    (Updated May 2015)
                     </p>
                     <p class="justified">
                         <b>Childhood and Teenage Hood!</b>
