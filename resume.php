@@ -77,7 +77,7 @@
                                     -->
                                 </p>
                                     • Also offered fellowships and/or research assistantships from UT Austin (<a target="_blank"href="http://www.utexas.edu/ogs/funding/fellowships/mcd.html">MCD Fellowship</a>), U Illinois (<a target="_blank"href="http://cs.illinois.edu/prospective-students/graduate-students/ms-phd-programs/graduate-fellowships-awards#dept">Department Fellowship</a>), Georgia Tech, UC San Diego (Fellowship+RA), U Toronto, and EPFL
-                                    
+     
                                 <p>
                                 </p>
                         <!--
@@ -98,8 +98,9 @@
                                 <p>
                                     Offered <strong>RA Positions</strong> from Gatech, USCD (Fellowship+RA), UToronto, and EPFL
                                 </p>
-                            </li><div class="date"> 2012</div>
-                        -->
+                            </li>
+-->
+                            <div class="date"> 2012</div>
                             <li>
                                 <p>
                                     Winner<strong> </strong>of the<strong> Faculty of Engineering (FOE) </strong>award for <strong>ranked 1<sup>st</sup></strong> students                               
@@ -111,6 +112,7 @@
                                     Accepted into the <strong>EPFL</strong> competitive<a target="_blank"href="http://ic.epfl.ch/SummerAtEPFL"> <strong>internship program</strong> </a>granted with full scholarship
                                 </p>
                             </li>
+                            <!--
                             <div class="date"> 2012 </div>
                             <li>
                                 <p>
@@ -118,11 +120,15 @@
 
                                 </p>
                             </li>
+                        -->
                             <div class="date"> 2011 </div>
                             <li>
                                 <p>
                                     <strong>Ranked 3<sup>rd</sup></strong> in the 16<sup>th</sup><strong> Iran National University Students'</strong> <strong>Olympiad</strong> in Computer Engineering
-
+                                </p>
+                                <p>
+                                    • Member of Iran's National Elites Foundation and received multiple grants
+                                    • Qualified to pursue graduate studies in any Iranian university with full scholarship
                                 </p>
                             </li>
                             <div class="date"> 2011 </div>
