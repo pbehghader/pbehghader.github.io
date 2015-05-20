@@ -24,7 +24,7 @@
                     -->
                     <p> I am a second year PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>.
                         I work in <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> under the superviosion of Prof. <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>. 
-                        I join <a target="_blank" href="http://www.ifi.uzh.ch/seal.html">Software Architecture and Evolution Lab</a>, led by Prof. <a target="_blank" href="http://www.ifi.uzh.ch/seal/people/gall.html">Harald Gall</a>, as a visiting researcher for the summer of 2015</p>
+                        I join <a target="_blank" href="http://www.ifi.uzh.ch/seal.html">Software Architecture and Evolution Lab</a>, led by Prof. <a target="_blank" href="http://www.ifi.uzh.ch/seal/people/gall.html">Harald Gall</a>, as a visiting researcher for the summer of 2015.</p>
 
                     <p>My major areas of interest are:
                         <ul>
@@ -34,8 +34,8 @@
                     </p>
                     <p>
                         
-                        I received my B.S. in Computer Engineering from the <a target="_blank" href="http://ece.ut.ac.ir/en">School of Electrical and Computer Engineering</a> at <a target="_blank" href="http://ut.ac.ir/en">University of Tehran</a> in June 2013. 
-                        In addition, I worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
+                        I received my B.S. in Computer Engineering from the <a target="_blank" href="http://ece.ut.ac.ir/en">School of Electrical and Computer Engineering</a> at <a target="_blank" href="http://ut.ac.ir/en">University of Tehran</a> under the supervision of <a target="_blank" href="http://ece.ut.ac.ir/en/users/fghassemi">Dr. Fatemeh Ghassemi</a> in June 2013.
+                        In addition, I worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of Prof. <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
                     </p>
                     <p>You can find my Resume <a href="resume.php"><strong>here</strong></a>.</p>
                 </div>
