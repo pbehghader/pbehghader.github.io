@@ -122,7 +122,7 @@
                             <div class="date"> 2011 </div>
                             <li>
                                 <p>
-                                    <strong>Ranked 3<sup>rd</sup></strong> in the 16<sup>th</sup><strong> Iran National University Students'</strong> <strong>Olympiad</strong> in Computer Engineering
+                                    <strong>Ranked 3<sup>rd</sup></strong> in the 16<sup>th</sup><a target="_blank"href="http://olympiad.sanjesh.org/en/"><strong> Iran National University Students'</strong></a> <strong>Olympiad</strong> in Computer Engineering
                                 </br>
                                     • Member of <a target="_blank"href="http://en.wikipedia.org/wiki/Iran's_National_Elites_Foundation"><strong>Iran's National Elites Foundation</strong></a> and received multiple grants
                                 </br>
