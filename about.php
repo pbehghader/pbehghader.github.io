@@ -17,7 +17,7 @@
             <?php include 'sidebar.php'; ?>
             <div id="content">
                 <div class="post">
-                    <h2>About me</h2>
+                    <h2>About me (updated May 2015)</h2>
                     <div class="aboutimage"><img src="images/about.jpg" width="220" alt="" /></div>
                     <p class="justified">
                         <b>Childhood and Teenage Hood!</b>
