@@ -149,9 +149,9 @@
                             <li>
                                 <p>
                                     <strong>11<sup>th</sup> Place</strong> in the 12<sup>th</sup> Regional Contest of <strong>ACM ICPC</strong> in Asia region, Tehran site
-
                                 </p>
                             </li>
+                         <!--
                             <div class="date"> 2008 </div>
                             <li>
                                 <p>
@@ -159,10 +159,13 @@
                                 </p>
 
                             </li>
+                        -->
                             <div class="date"> 2008 </div>
                             <li>
                                 <p>
-                                    <strong>Top 0.15% </strong> of the nationwide entrance exam of Iranian Universities
+                                    <strong>Top 0.1% </strong> of the nationwide entrance exam of Iranian Universities
+                                </br>
+                                • Received a Faculty of Engineering Scholarship as an exceptional student
                                 </p>
                             </li>
                         </ul>
