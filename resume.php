@@ -76,17 +76,19 @@
                                      <!--
                                     -->
                                 </p>
-                                    Provost’s PhD Fellowship for four years from the University of Southern California 2013
-                                    • Also offered fellowships and/or research assistantships from UT Austin, U Illinois, Georgia Tech, UC San Diego, U Toronto, and EPFL
+                                    • Also offered fellowships and/or research assistantships from UT Austin (<a target="_blank"href="http://www.utexas.edu/ogs/funding/fellowships/mcd.html"><strong>MCD Fellowship</strong></a>), U Illinois (<a target="_blank"href="http://cs.illinois.edu/prospective-students/graduate-students/ms-phd-programs/graduate-fellowships-awards#dept"><strong> Department Fellowship</strong> </a>), Georgia Tech, UC San Diego, U Toronto, and EPFL
                                     
                                 <p>
                                 </p>
+                        <!--
                             </li><div class="date"> 2013</div>
                             <li>
                                 <p>
                                     Offered an <a target="_blank"href="http://www.utexas.edu/ogs/funding/fellowships/mcd.html"><strong>MCD Fellowship</strong></a> for three years from the <strong>University of Texas at Austin </strong>
                                 </p>
                             </li><div class="date"> 2013</div>
+                        -->
+                        <!--
                             <li>
                                 <p>
                                     Offered an <a target="_blank"href="http://cs.illinois.edu/prospective-students/graduate-students/ms-phd-programs/graduate-fellowships-awards#dept"><strong> Department Fellowship</strong> </a> from the <strong>University of Illinois, Urbana-Champaign</strong>
@@ -97,6 +99,7 @@
                                     Offered <strong>RA Positions</strong> from Gatech, USCD (Fellowship+RA), UToronto, and EPFL
                                 </p>
                             </li><div class="date"> 2012</div>
+                        -->
                             <li>
                                 <p>
                                     Winner<strong> </strong>of the<strong> Faculty of Engineering (FOE) </strong>award for <strong>ranked 1<sup>st</sup></strong> students                               
