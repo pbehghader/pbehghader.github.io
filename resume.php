@@ -73,8 +73,13 @@
                             <li>
                                 <p>
                                     <a target="_blank"href="http://www.usc.edu/schools/GraduateSchool/provost_fellowships.html"><strong>Provost’s PhD Fellowship</strong> </a>for four years from the <strong>University of Southern California </strong>
-                                     Provost’s PhD Fellowship for four years from the University of Southern California 2013
+                                     <!--
+                                    -->
+                                </p>
+                                    Provost’s PhD Fellowship for four years from the University of Southern California 2013
                                     • Also offered fellowships and/or research assistantships from UT Austin, U Illinois, Georgia Tech, UC San Diego, U Toronto, and EPFL
+                                    
+                                <p>
                                 </p>
                             </li><div class="date"> 2013</div>
                             <li>
