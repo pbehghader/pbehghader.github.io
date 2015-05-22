@@ -24,11 +24,6 @@
                     <!--
                     <div class="aboutimage"><img src="images/about.jpg" width="220" alt="" /></div>
                     -->
-                    
-                    
-                    <p class="justified">
-                    (Updated May 2015)
-                    </p>
                     <p class="justified">
                         <b>Childhood and Teenage Hood!</b>
                         I was born in the summer of 1990 in Tehran, Iran. I spend most of my childhood playing soccer in the beautiful neighborhood of Jolfa in my hometown. In the Spring of 2001, I got accepted into the most competitive middle school of Iran (Allameh-Helli Tehran) through a nationwide exam with an acceptance rate of 0.5%. In the Spring of 2004, I started one the happiest eras of my life getting accepted into the Allameh-Helli high school. During the seven years of studying in Allameh-Helli, I participated in many student activities, and I developed a strong foundation in Mathematics and Computer Science.
@@ -51,7 +46,9 @@
                     <p class="justified">
                     <b> To be continued ... </b>
                     </p>
-                    
+                    <p class="justified">
+                        (Updated May 2015)
+                    </p>
                 </div>
             </div>
         </div>
