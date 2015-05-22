@@ -25,9 +25,7 @@
                     <!--
                     <p>My name is Pooyan Behnamghader. I am a PhD student in Computer Science at University of Southern California. My advisor is <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a>. I am a member of the <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a> at USC.</p>
                     -->
-                    <p class="justified">
-                    (Updated May 2015)
-                    </p>
+
                     <p class="justified"> I am a second year PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>.
                         I work in <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> under the superviosion of Prof. <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>. 
                         Currently, I am a visiting researcher in <a target="_blank" href="http://www.ifi.uzh.ch/seal.html">Software Architecture and Evolution Lab</a>, led by Prof. <a target="_blank" href="http://www.ifi.uzh.ch/seal/people/gall.html">Harald Gall</a>, at the <a target="_blank" href="http://www.uzh.ch/index_en.html">University of Zurich</a> for the summer of 2015.</p>
@@ -47,6 +45,9 @@
                         Find my Resume at <a target="_blank" href="resume.php"><strong>web</strong></a> / <a target="_blank" href="PooyanBehnamghader.pdf"><strong>pdf</strong></a>.
                         </br>
                         Contact me at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or check <a target="_blank" href="contact.php">contact</a> for further information.
+                    </p>
+                    <p class="justified">
+                    (Updated May 2015)
                     </p>
                 </div>
             </div>
