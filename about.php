@@ -15,7 +15,7 @@
         <?php include 'topmenu.php'; ?>
         <div id="wrap">
             <?php include 'sidebar.php'; ?>
-            <img class="headerimage" src="images/about.jpg" width="700" height="200" alt="" />
+            <img class="headerimage" src="images/front.jpg" width="700" height="200" alt="" />
 
             <div id="content">
                 <div class="post">
