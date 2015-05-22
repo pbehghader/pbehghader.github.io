@@ -15,10 +15,12 @@
         <?php include 'topmenu.php'; ?>
         <div id="wrap">
             <?php include 'sidebar.php'; ?>
+            <!--
             <img class="headerimage" src="images/front.jpg" width="700" height="200" alt="" />
-
+            -->
             <div id="content">
                 <div class="post">
+                    <div class="aboutimage"><img src="images/home.jpg" width="220" alt="" /></div>
                     <!--
                     <p>My name is Pooyan Behnamghader. I am a PhD student in Computer Science at University of Southern California. My advisor is <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a>. I am a member of the <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a> at USC.</p>
                     -->
