@@ -10,7 +10,7 @@
         <script type="text/javascript" src="jquery-1.4.2.min.js"></script>
         <script type="text/javascript" src="coin-slider.min.js"></script>
         <link rel="stylesheet" href="coin-slider-styles.css" type="text/css" />
-
+        <link rel="icon" href="http://www.cs.usc.edu/favicon.ico" type="image/x-icon">
         <title>Photos</title>
 
     </head>

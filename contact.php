@@ -7,6 +7,7 @@
         <meta name="keywords" content="your,keywords,goes,here" />
         <meta name="author" content="Pooyan Behnamghader" />
         <link rel="stylesheet" type="text/css" href="variant-light.css" title="Variant Light" media="screen,projection" />
+        <link rel="icon" href="http://www.cs.usc.edu/favicon.ico" type="image/x-icon">
         <title>Contact</title>
     </head>
 
