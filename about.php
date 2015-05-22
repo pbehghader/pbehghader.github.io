@@ -18,7 +18,10 @@
             <div id="content">
                 <div class="post">
                     <h2>About me </h2>
+                    <!--
                     <div class="aboutimage"><img src="images/about.jpg" width="220" alt="" /></div>
+                    -->
+                    <img class="headerimage" src="images/front.jpg" width="700" height="200" alt="" />
                     
                     <p class="justified">
                     (Updated May 2015)
