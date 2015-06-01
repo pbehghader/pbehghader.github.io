@@ -27,7 +27,7 @@
                     -->
 
                     <p class="justified"> I am a second year PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>.
-                        I work in <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> under the superviosion of Prof. <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>. 
+                        I work in <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> under the supervision of Prof. <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>. 
                         Currently, I am a visiting researcher in <a target="_blank" href="http://www.ifi.uzh.ch/seal.html">Software Architecture and Evolution Lab</a>, led by Prof. <a target="_blank" href="http://www.ifi.uzh.ch/seal/people/gall.html">Harald Gall</a>, at the <a target="_blank" href="http://www.uzh.ch/index_en.html">University of Zurich</a> for the summer of 2015.</p>
 
                     <p class="justified">My major areas of interest are:
