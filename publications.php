@@ -34,13 +34,12 @@
                                     <div class="workDescription">
                                     <ul >
                                         <li>
-                                            Extending and improving ARCADE, a software workbench that employs a suite of architecture-recovery techniques and metrics for different aspects of architectural change
-                                        </li>
-                                        <li>
-                                            Developing a toolset to use cloud computing in order to semi-automatically run large-scale software architecture recovery analyses on the history of systems in software repositories 
-                                        </li>
-                                        <li>
-                                            Improving Mahjong, a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
+                                        Abstract-From its very inception, the study of software architecture has recognized architectural decay as a regularly occurring phenomenon in long-lived systems. Architectural decay
+is caused by repeated changes to a system during its lifespan. Despite decay’s prevalence, there is a relative dearth of empirical data regarding the nature of architectural changes that may lead
+to decay, and of developers’ understanding of those changes. In this paper, we take a step toward addressing that scarcity by conducting an empirical study of changes found in software
+architectures spanning several hundred versions of 14 opensource systems. Our study reveals several new findings regarding the frequency of architectural changes in software systems, the
+common points of departure in a system’s architecture during maintenance and evolution, the difference between system-level and component-level architectural change, and the suitability
+of a system’s implementation-level structure as a proxy for its architecture.
                                         </li>
                                         
                                     </ul>
