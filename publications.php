@@ -8,7 +8,7 @@
         <meta name="author" content="Pooyan Behnamghader" />
         <link rel="stylesheet" type="text/css" href="variant-light.css" title="Variant Light" media="screen,projection" />
         <link rel="icon" href="http://www.cs.usc.edu/favicon.ico" type="image/x-icon">
-        <title>Related Courses</title>
+        <title>Publications</title>
     </head>
 
     <body>
@@ -21,7 +21,7 @@
                     <h2>Publications</h2>
                     <div>
                         <h3>
-                            MSR 2015
+                            2015
                         </h3>
                         
                             <ul>
@@ -34,7 +34,7 @@
                                     <div class="workDescription">
                                     <ul >
                                         <li>
-                                        Abstract-From its very inception, the study of software architecture has recognized architectural decay as a regularly occurring phenomenon in long-lived systems. Architectural decay
+                                        <b>Abstract</b>-From its very inception, the study of software architecture has recognized architectural decay as a regularly occurring phenomenon in long-lived systems. Architectural decay
 is caused by repeated changes to a system during its lifespan. Despite decay’s prevalence, there is a relative dearth of empirical data regarding the nature of architectural changes that may lead
 to decay, and of developers’ understanding of those changes. In this paper, we take a step toward addressing that scarcity by conducting an empirical study of changes found in software
 architectures spanning several hundred versions of 14 opensource systems. Our study reveals several new findings regarding the frequency of architectural changes in software systems, the
