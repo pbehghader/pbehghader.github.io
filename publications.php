@@ -21,11 +21,7 @@
                     <h2>Publications</h2>
                     <div>
                         <h3>
-                            2015
-                        </h3>
-                        <div>
-                        <h3>
-                            Publication
+                            MSR 2015
                         </h3>
                         
                             <ul>
@@ -38,9 +34,6 @@
                                     </p>
                                 </li>
                             </ul>
-                            
-                         
-                    </div>
                     
                     </div>
                     
