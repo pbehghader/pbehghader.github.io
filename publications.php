@@ -23,23 +23,25 @@
                         <h3>
                             2015
                         </h3>
-                        <ul class="noBullet">
-                            <li>
-                                <p>
-                                    <div class="grade"><strong>19</strong> (of 20) </div><div class="description"><strong>First Mark</strong></div> Process Theory and Automata (Graduate)
-                                    <br/>
-                                    <div class="grade"><strong>17.75</strong> (of 20) </div><div class="description"><strong>First Mark</strong></div> Theory of Computation
-                                    <br/>
-                                    <div class="grade"><strong>18.7</strong> (of 20) </div><div class="description"><strong>Second Mark</strong></div> Software Engineering
-                                    <br/>
-                                    <div class="grade"><strong>18.1</strong> (of 20) </div><div class="description"><strong>First Mark</strong></div> System Analysis and Design
-                                    <br/>
-                                    <div class="grade"><strong>20</strong> (of 20) </div><div class="description"><strong>First Mark</strong></div> Basic Database Design
-                                    <br/>
-                                </p>
-                            </li>
-
-                        </ul>
+                        <div>
+                        <h3>
+                            Publication
+                        </h3>
+                        
+                            <ul>
+                                <li>
+                                    <p>
+                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “<a href="publications/An Empirical Study of Architectural Change in Open-Source Software Systems.pdf">An Empirical Study of Architectural Change in Open-Source Software Systems</a>.” In <i>Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015),</i> Florence, Italy, May 2015.
+                                    <!--
+                                        M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
+                                    -->
+                                    </p>
+                                </li>
+                            </ul>
+                            
+                         
+                    </div>
+                    
                     </div>
                     
                 </div>
