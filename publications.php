@@ -31,6 +31,21 @@
                                     <!--
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
+                                    <div class="workDescription">
+                                    <ul >
+                                        <li>
+                                            Extending and improving ARCADE, a software workbench that employs a suite of architecture-recovery techniques and metrics for different aspects of architectural change
+                                        </li>
+                                        <li>
+                                            Developing a toolset to use cloud computing in order to semi-automatically run large-scale software architecture recovery analyses on the history of systems in software repositories 
+                                        </li>
+                                        <li>
+                                            Improving Mahjong, a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
+                                        </li>
+                                        
+                                    </ul>
+                                </div>
+
                                     </p>
                                 </li>
                             </ul>
