@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <?php include 'analytics.php'; ?>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="fa" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Your description goes here" />
@@ -8,7 +8,7 @@
         <meta name="author" content="Pooyan Behnamghader" />
         <link rel="stylesheet" type="text/css" href="variant-light.css" title="Variant Light" media="screen,projection" />
         <link rel="icon" href="http://www.cs.usc.edu/favicon.ico" type="image/x-icon">
-        <title>Pooyan Behnamghader پویان بهنام قادر</title>
+        <title>Pooyan Behnamghader</title>
     </head>
 
     <body>
