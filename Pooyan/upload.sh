@@ -1,0 +1,1 @@
+scp -r * pooyan@softarch.usc.edu:/home/pooyan/Public/html/
