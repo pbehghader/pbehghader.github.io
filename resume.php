@@ -285,6 +285,9 @@
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"	<strong>to be submitted</strong>
                                     -->
                                     </p>
+                                    <p>
+                                    Sonal Mahajan, Bailan Li, <strong>Pooyan Behnamghader</strong>, William G. J. Halfond. ”Using Visual Symptoms for Debugging Presentation Failures in Web Applications.” In <i>Proceedings of the 9th IEEE International Conference on Software Testing, Verification and Validation (ICST 2016),</i> Chicago, USA, April 2016.
+                                    </p>
                                 </li>
                             </ul>
                             
