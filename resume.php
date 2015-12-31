@@ -279,21 +279,20 @@
                             <ul>
                                 <li>
                                     <p>
-                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “<a href="publications/emparch_msr15.pdf">An Empirical Study of Architectural Change in Open-Source Software Systems</a>.” In <i>Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015),</i> Florence, Italy, May 2015.
-                                    <!--
-                                        M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"	<strong>to be submitted</strong>
-                                    -->
-                                    </p>
-                                </li>
-                                <li>
-                                    <p>
                                     Sonal Mahajan, Bailan Li, <strong>Pooyan Behnamghader</strong>, William G. J. Halfond. “Using Visual Symptoms for Debugging Presentation Failures in Web Applications.” In <i>Proceedings of the 9th IEEE International Conference on Software Testing, Verification and Validation (ICST 2016),</i> Chicago, USA, April 2016. (To appear)
                                     <!--
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
                                     </p>
                                 </li>
-                                
+                                  <li>
+                                    <p>
+                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “<a href="publications/emparch_msr15.pdf">An Empirical Study of Architectural Change in Open-Source Software Systems</a>.” In <i>Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015),</i> Florence, Italy, May 2015.
+                                    <!--
+                                        M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
+                                    -->
+                                    </p>
+                                </li>
                             </ul>
                             
                          
