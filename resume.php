@@ -151,7 +151,7 @@
                                 <p>
                                     <strong>11<sup>th</sup> Place</strong> in the 12<sup>th</sup> Regional Contest of <strong>ACM ICPC</strong> in Asia region, Tehran site
                                 </br>
-                                • Received a Faculty of Engineering Scholarship as an exceptional student
+                                • Member of University of Tehran’s ACM ICPC team in 2009 and 2010
                                 </p>
                             </li>
                          <!--
@@ -168,7 +168,7 @@
                                 <p>
                                     <strong>Top 0.1% </strong> of the nationwide entrance exam of Iranian Universities
                                 </br>
-                                • Member of University of Tehran’s ACM ICPC team in 2009 and 2010
+                                • Received a Faculty of Engineering Scholarship as an exceptional student
                                 </p>
                             </li>
                         </ul>
