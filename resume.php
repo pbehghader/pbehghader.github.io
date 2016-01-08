@@ -450,12 +450,12 @@
 
                     </div>
                     -->
+                     <p class="justified">
+                    (Updated January 2016)
+                    </p>
                 </div>
             </div>
         </div>
-        <p class="justified">
-                    (Updated January 2016)
-                    </p>
         <?php include 'footer.php'; ?>
     </body>
 </html>
