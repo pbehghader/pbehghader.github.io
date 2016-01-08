@@ -77,8 +77,6 @@
                                 </br>
                                  • Also offered fellowships and/or research assistantships from UT Austin (<a target="_blank"href="http://www.utexas.edu/ogs/funding/fellowships/mcd.html">MCD Fellowship</a>), U Illinois (<a target="_blank"href="http://cs.illinois.edu/prospective-students/graduate-students/ms-phd-programs/graduate-fellowships-awards#dept">Department Fellowship</a>), Georgia Tech, UC San Diego (Fellowship+RA), U Toronto, and EPFL
                           </p>
-                               
- 
                         <!--
                             </li><div class="date"> 2013</div>
                             <li>
@@ -226,6 +224,27 @@
                                         </li>
                                         <li>
                                             Developing a parser using JavaCC parser generator for Xtext files
+                                        </li>
+
+                                    </ul>
+                                </div>
+
+
+                            </li>
+
+                             <li>
+
+                                <strong>Department of Informatics, University of Zurich, Switzerland</strong>
+                                <br/>
+                                <div class="date"> Summer 2015 </div>
+                                <strong>Research Assistant</strong> of <strong>Prof. H. Gall</strong>
+                                <div class="workDescription">
+                                    <ul>
+                                        <li>
+                                            Studying of the scalability, reusability, and reliability of empirical studies in programming analysis
+                                        </li>
+                                        <li>
+                                            Studying architecture-centric benchmarking of Infrastructure As A Service (IaaS) and Mobile Backend As A Service (MBaaS)
                                         </li>
 
                                     </ul>
