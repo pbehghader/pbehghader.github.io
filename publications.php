@@ -59,7 +59,7 @@ of a system’s implementation-level structure as a proxy for its architecture.
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
                                      <!-- Buffer -->
-                                     (<a href="publications/emparch_msr15.pdf"><b>Download</b></a>)
+                    
                                     <div class="workDescription">
                                     <ul >
                                         <li>
