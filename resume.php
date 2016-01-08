@@ -390,7 +390,7 @@
                             <li>
                                 <strong>Thornton School of Music, University of Southern California, USA</strong>
                                 <ul>
-                                    <div class="date"> Fall 2014 – Present </div>
+                                    <div class="date"> Fall 2014 – Spring 2015 </div>
                                     <li>
                                         Singer: <strong>Apollo Men’s Chorus</strong>
                                         
