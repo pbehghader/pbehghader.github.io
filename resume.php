@@ -374,11 +374,17 @@
                             <li>
                                 <strong>Department of Computer Science, University of Southern California, USA</strong>
                                 <ul>
-                                    <div class="date"> Spring 2014 - Present </div>
+                                    <div class="date"> Fall 2015 - Present </div>
                                     <li>
-                                        Board Member: <strong>PhD Student Committee</strong>
+                                        Board Member (President): <strong>PhD Student Committee</strong>
                                         
                                     </li>
+                                    <div class="date"> Spring 2014 - Spring 2015 </div>
+                                    <li>
+                                        Board Member (Officer): <strong>PhD Student Committee</strong>
+                                        
+                                    </li>
+
                                 </ul>
                             </li>
                             <li>
@@ -396,12 +402,12 @@
                                 <ul>
                                     <div class="date"> 2010 - 2011 </div>
                                     <li>
-                                        Organizer (secretary): <strong>ACM Student Chapter</strong>
+                                        Board Member (secretary): <strong>ACM Student Chapter</strong>
                                         
                                     </li>
                                     <div class="date"> 2009 - 2010 </div> 
                                     <li>
-                                        Organizer (secretary): <strong>Representatives Community</strong>
+                                        Board Member (secretary): <strong>Representatives Community</strong>
                                 
                                     </li>
                                 </ul>
