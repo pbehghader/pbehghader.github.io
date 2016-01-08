@@ -211,6 +211,27 @@
 
                             </li>
 
+                            <li>
+
+                                <strong>Department of Informatics, University of Zurich, Switzerland</strong>
+                                <br/>
+                                <div class="date"> Summer 2015 </div>
+                                <strong>Research Assistant</strong> of <strong>Prof. H. Gall</strong>
+                                <div class="workDescription">
+                                    <ul>
+                                        <li>
+                                            Studying of the scalability, reusability, and reliability of empirical studies in programming analysis
+                                        </li>
+                                        <li>
+                                            Studying architecture-centric benchmarking of Infrastructure As A Service (IaaS) and Mobile Backend As A Service (MBaaS)
+                                        </li>
+
+                                    </ul>
+                                </div>
+
+
+                            </li>
+
                              <li>
 
                                 <strong>School of Computer and Communication Science, EPFL, Switzerland</strong>
@@ -232,26 +253,7 @@
 
                             </li>
 
-                             <li>
-
-                                <strong>Department of Informatics, University of Zurich, Switzerland</strong>
-                                <br/>
-                                <div class="date"> Summer 2015 </div>
-                                <strong>Research Assistant</strong> of <strong>Prof. H. Gall</strong>
-                                <div class="workDescription">
-                                    <ul>
-                                        <li>
-                                            Studying of the scalability, reusability, and reliability of empirical studies in programming analysis
-                                        </li>
-                                        <li>
-                                            Studying architecture-centric benchmarking of Infrastructure As A Service (IaaS) and Mobile Backend As A Service (MBaaS)
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-
-                            </li>
+                             
 
                             <li>
 
