@@ -51,7 +51,7 @@
                          <!--
                          <a target="_blank" href="resume.php"><strong>web</strong></a> / 
                             -->
-                         <a target="_blank" href="PooyanBehnamghader.pdf"><strong>CV</strong></a>.
+                         <a target="_blank" href="PooyanBehnamghader.pdf"><strong>this link</strong></a>.
                         </br>
                         Contact me at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or check <a target="_blank" href="contact.php">contact</a> for further information.
                     </p>
