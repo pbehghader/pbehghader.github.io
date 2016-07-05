@@ -55,6 +55,24 @@
                                 </li>
                             </ul>
                     </div>
+                     <div>
+                        <h3>
+                            FieryEye
+                        </h3>
+                            FieryEye is a novel automated framework for debugging web sites that is based 
+                            on image processing and probabilistic techniques. FieryEye first builds a model
+                            that links observable changes in the website’s appearance to faulty elements 
+                            and styling properties. Then using this model, our approach predicts the elements and styling
+                            properties most likely to cause the observed failure for the page
+                            under test and reports these to the developer
+                            <br/>
+                            Mr. Behnamghader's main contributions:
+                            <ul>
+                                <li>
+                                    Drastically improving the efficiency of FieryEye by implementing infrastructures to run FieryEye on cloud. 
+                                </li>
+                            </ul>
+                    </div>
                     <div>
                         <h3>
                             Mahjong
