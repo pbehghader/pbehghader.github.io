@@ -26,7 +26,7 @@
                         </h3>
                             ARCADE is a software workbench that employs a suite of architecture recoverytechniques and metrics for different aspects of architectural change.
                             <br/>
-                            My contributions in ARCADE project are as follows:
+                            My contributions to the project are as follows:
                             <ul>
                                 <li>
                                     Improving ACDC architecture recovery technique.
@@ -45,7 +45,7 @@
                         </h3>
                             SoftEvo is a toolset to use cloud computing in order to semi-automatically run large-scale static and dynamic programming analyses on the history of systems in software repositories.
                             <br/>
-                            My contributions in SoftEvo project is as follows:
+                            My contributions to SoftEvo project is as follows:
                             <ul>
                                 <li>
                                     Designing and implementing SoftEvo.
@@ -58,10 +58,26 @@
                         </h3>
                             Mahjong is a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
                             <br/>
-                            My contributions in Mahjong project is as follows:
+                            My contributions in the project are as follows:
                             <ul>
                                 <li>
                                     Desinging and implementing infrastructure to run Mahjong on cloud.
+                                </li>
+                            </ul>
+                    </div>
+                    <div>
+                        <h3>
+                            RBPT
+                        </h3>
+                            Restricted Broadcast Process Theory (RBPT) was introduced for formal modeling and verification of Mobile Ad Hoc Networks (MANETs) in an algebraic way. In this project, a tool that checks the static semantics of a given specification was developed. Furthermore, it linearizes the algebraic specifications using the sound axioms of RBPT. To this aim, two approaches were followed. In the first approach, the specifications are translated into the functional programming language Haskell, which in turn handles the linearization. In the second, linearization was implemented on the syntax tree translations of the specifications.
+                            <br/>
+                            My contributions to the project are as follows:
+                            <ul>
+                                <li>
+                                    Implementing the core engine of RBPT.
+                                </li>
+                                <li>
+                                    Providing a state space generator for process terms of RBPT extended with abstract data types by translating the specifications to ML
                                 </li>
                             </ul>
                     </div>
