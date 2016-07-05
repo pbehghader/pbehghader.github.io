@@ -69,7 +69,7 @@
                             Mr. Behnamghader's main contributions:
                             <ul>
                                 <li>
-                                    Drastically improving the efficiency of FieryEye by implementing infrastructures to run FieryEye on cloud. 
+                                    Improving the efficiency of FieryEye by designing and implementing infrastructures to run it on cloud. 
                                 </li>
                             </ul>
                     </div>
