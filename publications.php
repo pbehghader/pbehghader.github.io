@@ -19,13 +19,14 @@
             <div id="content">
                 <div class="post">
                     <h2>Publications</h2>
+
                     <div>
                         <h3>
-                            2015
+                            2016
                         </h3>
-                        
-                            <ul>
-                                 <li>
+                        <ul>
+
+                                <li>
                                     <p>
 
                                     Sonal Mahajan, Bailan Li, <strong>Pooyan Behnamghader</strong>, William G. J. Halfond. “Using Visual Symptoms for Debugging Presentation Failures in Web Applications.” In <i>Proceedings of the 9th IEEE International Conference on Software Testing, Verification and Validation (ICST 2016),</i> Chicago, USA, April 2016. (To appear)
@@ -46,6 +47,16 @@
 
                                     </p>
                                 </li>
+
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h3>
+                            2015
+                        </h3>
+                        
+                            <ul>
                                 <li>
                                     <p>
 
