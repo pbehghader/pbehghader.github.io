@@ -26,7 +26,7 @@
                         </h3>
                             ARCADE is a software workbench that employs a suite of architecture recoverytechniques and metrics for different aspects of architectural change.
                             <br/>
-                            My contributions to that project are as follows:
+                            Mr. Behnamghader's main contributions:
                             <ul>
                                 <li>
                                     Improving ACDC architecture recovery technique.
@@ -45,10 +45,13 @@
                         </h3>
                             SoftEvo is a toolset to use cloud computing in order to semi-automatically run large-scale static and dynamic programming analyses on the history of systems in software repositories.
                             <br/>
-                            My contributions to that project are as follows:
+                            Mr. Behnamghader's main contributions:
                             <ul>
                                 <li>
                                     Designing and implementing SoftEvo.
+                                </li>
+                                <li>
+                                    Implementing ARCADE's workflow based on SoftEvo.
                                 </li>
                             </ul>
                     </div>
@@ -58,7 +61,7 @@
                         </h3>
                             Mahjong is a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
                             <br/>
-                            My contributions to that project are as follows:
+                            Mr. Behnamghader's main:
                             <ul>
                                 <li>
                                     Desinging and implementing infrastructure to run Mahjong on cloud.
@@ -71,13 +74,13 @@
                         </h3>
                             Restricted Broadcast Process Theory (RBPT) was introduced for formal modeling and verification of Mobile Ad Hoc Networks (MANETs) in an algebraic way. In this project, a tool that checks the static semantics of a given specification was developed. Furthermore, it linearizes the algebraic specifications using the sound axioms of RBPT. 
                             <br/>
-                            My contributions to that project are as follows:
+                           Mr. Behnamghader's main contributions:
                             <ul>
                                 <li>
-                                    Implementing the core engine of RBPT.
+                                    Desinging and implementing the core engine of RBPT.
                                 </li>
                                 <li>
-                                    Providing a state space generator for process terms of RBPT extended with abstract data types by translating the specifications to ML
+                                    Providing a state space generator for process terms of RBPT extended with abstract data types by translating the specifications to ML.
                                 </li>
                             </ul>
                     </div>
