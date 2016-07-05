@@ -24,6 +24,27 @@
                         <h3>
                             ARCADE
                         </h3>
+
+Developing a toolset to use cloud computing in order to semi-automatically run large-scale software
+architecture recovery analyses on the history of systems in software repositories
+1
+Improving Mahjong, a distributed software system that uses idle cycles on remote but networked
+computers to solve NP-complete problems
+                            <ul>
+                                <li>
+                                    <p>
+
+                                    Extending and improving ARCADE, a software workbench that employs a suite of architecturerecovery
+techniques and metrics for different aspects of architectural change
+                                    </p>
+                                </li>
+
+                                
+                            </ul>
+
+
+
+
                     </div>
 
                     <div>
