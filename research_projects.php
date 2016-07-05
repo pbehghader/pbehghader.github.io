@@ -39,23 +39,31 @@
                                 </li>
                             </ul>
                     </div>
-
                     <div>
                         <h3>
                             SoftEvo
                         </h3>
-                            
                             SoftEvo is a toolset to use cloud computing in order to semi-automatically run large-scale static and dynamic programming analyses on the history of systems in software repositories.
                             <br/>
                             My contributions in SoftEvo project is as follows:
                             <ul>
                                 <li>
-                                    I designed and implemented SoftEvo.
+                                    Designing and implementing SoftEvo.
                                 </li>
                             </ul>
-                            Improving Mahjong, a distributed software system that uses idle cycles on remote but networked
-computers to solve NP-complete problems
-                    
+                    </div>
+                    <div>
+                        <h3>
+                            Mahjong
+                        </h3>
+                            Mahjong is a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
+                            <br/>
+                            My contributions in Mahjong project is as follows:
+                            <ul>
+                                <li>
+                                    Desinging and implementing infrastructure to run Mahjong on cloud.
+                                </li>
+                            </ul>
                     </div>
                     <p class="justified">
                     (Updated January 2016)
