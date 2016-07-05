@@ -24,7 +24,7 @@
                         <h3>
                             ARCADE
                         </h3>
-                            ARCADE is a software workbench that employs a suite of architecture recoverytechniques and metrics for different aspects of architectural change.
+                            ARCADE is a software workbench that employs a suite of architecture recovery techniques and metrics for different aspects of architectural change.
                             <br/>
                             Main contributions:
                             <ul>
