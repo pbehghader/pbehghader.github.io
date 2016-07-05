@@ -69,7 +69,7 @@
                         <h3>
                             RBPT
                         </h3>
-                            Restricted Broadcast Process Theory (RBPT) was introduced for formal modeling and verification of Mobile Ad Hoc Networks (MANETs) in an algebraic way. In this project, a tool that checks the static semantics of a given specification was developed. Furthermore, it linearizes the algebraic specifications using the sound axioms of RBPT. To this aim, two approaches were followed. In the first approach, the specifications are translated into the functional programming language Haskell, which in turn handles the linearization. In the second, linearization was implemented on the syntax tree translations of the specifications.
+                            Restricted Broadcast Process Theory (RBPT) was introduced for formal modeling and verification of Mobile Ad Hoc Networks (MANETs) in an algebraic way. In this project, a tool that checks the static semantics of a given specification was developed. Furthermore, it linearizes the algebraic specifications using the sound axioms of RBPT. 
                             <br/>
                             My contributions to the project are as follows:
                             <ul>
