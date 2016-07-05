@@ -28,7 +28,7 @@
 
                                     <li>
                                     <p>
-                                    <storng>Pooyan Behnamghader</strong>, Duc Le, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic.
+                                    <strong>Pooyan Behnamghader</strong>, Duc Le, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic.
                                     “A Large-Scale Study of Architectural Evolution in Open-Source Software Systems.” Journal of Empirical Software Engineering. In Press.
                                     <!--
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
@@ -57,7 +57,8 @@
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
                                      <!-- Buffer -->
-                    
+                                    
+                                    <!--
                                     <div class="workDescription">
                                     <ul >
                                         <li>
@@ -67,7 +68,7 @@
                                         
                                     </ul>
                                 </div>
-
+                                    -->
                                     </p>
                                 </li>
 
@@ -89,6 +90,7 @@
                                     -->
                                      <!-- Buffer -->
                                      (<a href="publications/emparch_msr15.pdf"><b>Download</b></a>)
+                                    <!--
                                     <div class="workDescription">
                                     <ul >
                                         <li>
@@ -101,8 +103,8 @@ of a system’s implementation-level structure as a proxy for its architecture.
                                         </li>
                                         
                                     </ul>
-                                </div>
-
+                                     </div>
+-->
                                     </p>
                                 </li>
 
