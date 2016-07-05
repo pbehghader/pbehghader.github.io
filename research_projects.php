@@ -24,11 +24,9 @@
                         <h3>
                             ARCADE
                         </h3>
-                            <p>
                             ARCADE is a software workbench that employs a suite of architecture recoverytechniques and metrics for different aspects of architectural change.
                             <br/>
                             My contributions in ARCADE projects are as follows:
-                            </p>
                             <ul>
                                 <li>
                                     Improving ACDC architecture recovery technique.
