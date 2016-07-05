@@ -18,61 +18,12 @@
             <?php include 'sidebar.php'; ?>
             <div id="content">
                 <div class="post">
-                    <h2>Publications</h2>
-
+                    <h2>Research Projects</h2>
+                    
                     <div>
                         <h3>
-                            2016
+                            ARCADE
                         </h3>
-                        <ul>
-
-                                    <li>
-                                    <p>
-                                    <strong>Pooyan Behnamghader</strong>, Duc Le, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic.
-                                    “A Large-Scale Study of Architectural Evolution in Open-Source Software Systems.” Journal of Empirical Software Engineering. In Press.
-                                    <!--
-                                        M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
-                                    -->
-                                     <!-- Buffer -->
-                                    
-                                    <!--
-                                    <div class="workDescription">
-                                    <ul >
-                                        <li>
-                                            <b>Abstract</b>—Presentation failures in a website can undermine its success by giving users a negative perception of the trustwor- thiness of the site and the quality of the services it delivers. Unfortunately, existing techniques for debugging presentation failures do not provide developers with automated and broadly applicable solutions for finding the site’s faulty HTML elements and CSS properties. To address this limitation, we propose a novel automated approach for debugging web sites that is based on image processing and probabilistic techniques. Our approach first builds a model that links observable changes in the web site’s appearance to faulty elements and styling properties. Then using this model, our approach predicts the elements and styling properties most likely to cause the observed failure for the page under test and reports these to the developer. In evaluation, our approach was more accurate and faster than prior techniques for identifying faulty elements in a website.
-                                        
-                                        </li>
-                                        
-                                    </ul>
-                                     </div>
-                                        -->
-                                    </p>
-                                </li>
-
-                                <li>
-                                    <p>
-
-                                    Sonal Mahajan, Bailan Li, <strong>Pooyan Behnamghader</strong>, William G. J. Halfond. “Using Visual Symptoms for Debugging Presentation Failures in Web Applications.” In <i>Proceedings of the 9th IEEE International Conference on Software Testing, Verification and Validation (ICST 2016),</i> Chicago, USA, April 2016.
-                                    <!--
-                                        M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
-                                    -->
-                                     <!-- Buffer -->
-                                    
-                                    <!--
-                                    <div class="workDescription">
-                                    <ul >
-                                        <li>
-                                            <b>Abstract</b>—Presentation failures in a website can undermine its success by giving users a negative perception of the trustwor- thiness of the site and the quality of the services it delivers. Unfortunately, existing techniques for debugging presentation failures do not provide developers with automated and broadly applicable solutions for finding the site’s faulty HTML elements and CSS properties. To address this limitation, we propose a novel automated approach for debugging web sites that is based on image processing and probabilistic techniques. Our approach first builds a model that links observable changes in the web site’s appearance to faulty elements and styling properties. Then using this model, our approach predicts the elements and styling properties most likely to cause the observed failure for the page under test and reports these to the developer. In evaluation, our approach was more accurate and faster than prior techniques for identifying faulty elements in a website.
-                                        
-                                        </li>
-                                        
-                                    </ul>
-                                </div>
-                                    -->
-                                    </p>
-                                </li>
-
-                        </ul>
                     </div>
 
                     <div>
