@@ -2,7 +2,9 @@
     <p>
         <strong class="hide">Main menu:</strong>
         <a href="home.php">Home</a><span class="hide"> | </span>
+        <!--
         <a href="about.php">About</a><span class="hide"> | </span>
+        -->
         <a href="PooyanBehnamghader.pdf">CV</a><span class="hide"> | </span>
         <a href="publications.php">Publications</a><span class="hide"> | </span>
         <a href="publications.php">Research Projects</a><span class="hide"> | </span>
