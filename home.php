@@ -47,11 +47,11 @@
                         In addition, He worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of Prof. <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
                     </p>
                     <p class="justified">
-                        Find Mr. Behnamghader's CV at
+                        You can find Mr. Behnamghader's CV at this
                          <!--
                          <a target="_blank" href="resume.php"><strong>web</strong></a> / 
                             -->
-                         <a target="_blank" href="PooyanBehnamghader.pdf"><strong>this link</strong></a>.
+                         <a target="_blank" href="PooyanBehnamghader.pdf"><strong>LINK</strong></a>.
                         </br>
                         Contact me at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or check <a target="_blank" href="contact.php">contact</a> for further information.
                     </p>
