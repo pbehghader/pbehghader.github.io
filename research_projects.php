@@ -26,7 +26,7 @@
                         </h3>
                             ARCADE is a software workbench that employs a suite of architecture recoverytechniques and metrics for different aspects of architectural change.
                             <br/>
-                            Mr. Behnamghader's main contributions:
+                            Main contributions:
                             <ul>
                                 <li>
                                     Improving ACDC architecture recovery technique.
@@ -45,7 +45,7 @@
                         </h3>
                             SoftEvo is a toolset to use cloud computing in order to semi-automatically run large-scale static and dynamic programming analyses on the history of systems in software repositories.
                             <br/>
-                            Mr. Behnamghader's main contributions:
+                            Main contributions:
                             <ul>
                                 <li>
                                     Designing and implementing SoftEvo.
@@ -66,7 +66,7 @@
                             properties most likely to cause the observed failure for the page
                             under test and reports these to the developer
                             <br/>
-                            Mr. Behnamghader's main contributions:
+                            Main contributions:
                             <ul>
                                 <li>
                                     Improving the efficiency of FieryEye by designing and implementing infrastructures to run it on cloud. 
@@ -79,7 +79,7 @@
                         </h3>
                             Mahjong is a distributed software system that uses idle cycles on remote but networked computers to solve NP-complete problems
                             <br/>
-                            Mr. Behnamghader's main:
+                            Main contributions:
                             <ul>
                                 <li>
                                     Desinging and implementing infrastructure to run Mahjong on cloud.
@@ -92,7 +92,7 @@
                         </h3>
                             Restricted Broadcast Process Theory (RBPT) was introduced for formal modeling and verification of Mobile Ad Hoc Networks (MANETs) in an algebraic way. In this project, a tool that checks the static semantics of a given specification was developed. Furthermore, it linearizes the algebraic specifications using the sound axioms of RBPT. 
                             <br/>
-                           Mr. Behnamghader's main contributions:
+                           Main contributions:
                             <ul>
                                 <li>
                                     Desinging and implementing the core engine of RBPT.
