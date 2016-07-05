@@ -53,7 +53,7 @@
                             -->
                          <a target="_blank" href="PooyanBehnamghader.pdf"><strong>LINK</strong></a>.
                         </br>
-                        Contact me at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or check <a target="_blank" href="contact.php">contact</a> for further information.
+                        You can contact Mr. Behnmamghader at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or check <a target="_blank" href="contact.php">contact</a> for further information.
                     </p>
                     <p class="justified">
                     (Updated January 2016)
