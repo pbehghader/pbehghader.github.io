@@ -88,6 +88,25 @@
                     </div>
                     <div>
                         <h3>
+                            BUDE
+                        </h3>
+                            This project proposes a concept and a workbench that allow developers to devise applications with the help of templates. The workbench supports the development from the creation of the templates up to the (automatic) generation of a DSL (Domain Specific Language). The latter can be used to extend the application, as well as to develop other applications that require similar operations.
+                            <br/>
+                            Main contributions:
+                            <ul>
+                                <li>
+                                    Developed a DSL for generating Android Interfaces.
+                                </li>
+                                <li>
+                                    Developed a compiler for compiling Xtend templates.
+                                </li>
+                                <li>
+                                    Developed a parser for parsing Xtext files.
+                                </li>
+                            </ul>
+                    </div>                    
+                    <div>
+                        <h3>
                             RBPT
                         </h3>
                             Restricted Broadcast Process Theory (RBPT) was introduced for formal modeling and verification of Mobile Ad Hoc Networks (MANETs) in an algebraic way. In this project, a tool that checks the static semantics of a given specification was developed. Furthermore, it linearizes the algebraic specifications using the sound axioms of RBPT. 
