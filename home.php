@@ -41,10 +41,12 @@
                         </ul>
                     </p>
                     <p class="justified">
-                        
                         Pooyan received his B.S. in Computer Engineering from the <a target="_blank" href="http://ece.ut.ac.ir/en">School of Electrical and Computer Engineering</a> at <a target="_blank" href="http://ut.ac.ir/en">University of Tehran</a> under the supervision of Dr. <a target="_blank" href="http://ece.ut.ac.ir/en/users/fghassemi">Fatemeh Ghassemi</a> in June 2013.
                         He was a visiting PhD student in <a target="_blank" href="http://www.ifi.uzh.ch/seal.html">Software Architecture and Evolution Lab</a>, led by Prof. <a target="_blank" href="http://www.ifi.uzh.ch/seal/people/gall.html">Harald Gall</a>, at the <a target="_blank" href="http://www.uzh.ch/index_en.html">University of Zurich</a> for the summer of 2015.
                         In addition, He worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of Prof. <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
+                    </p>
+                    <p class="justified">
+                        Pooyan co-founded two startups: Ambermelon Smart Watch (2015-2016), and Huntus Sharing Economy Platform (2015); and he worked in Basir Tech (2007)
                     </p>
                     <p class="justified">
                         You can find his CV at this
