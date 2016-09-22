@@ -30,7 +30,7 @@
                         <!--
                         a co-founder of <a target="_blank" href="http://www.ambermelon.com">AmberMelon Smart Watch</a> and
                         -->
-                     Pooyan is a third year PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>.
+                     Pooyan is a PhD student in the <a target="_blank" href="http://cs.usc.edu">Computer Science Department</a> at the <a target="_blank" href="http://usc.edu">University of Southern California</a>.
                         He works in <a target="_blank" href="http://softarch.usc.edu/">Software Architecture Research Group</a> under the supervision of Prof. <a target="_blank" href="http://sunset.usc.edu/~neno/">Nenad Medvidovic</a> at the <a target="_blank" href="http://sunset.usc.edu/new/index.php">Center for Systems and Software Engineering</a>.
                     </p>
 
