@@ -46,7 +46,7 @@
                         In addition, He worked as a research assistant intern in the <a target="_blank" href="http://ic.epfl.ch/">School of Computer and Communication</a> at <a target="_blank" href="http://epfl.ch/">EPFL</a> under the supervision of Prof. <a target="_blank" href="http://ltiwww.epfl.ch/~petitp/">Claude Petitpierre</a> in summer 2012.
                     </p>
                     <p class="justified">
-                        Pooyan co-founded two startups: Ambermelon Smart Watch (2015-2016), and Huntus Sharing Economy Platform (2015); and he worked in Basir Tech (2007)
+                        In addition, Pooyan has some startup experiences. He co-founded two startups: Ambermelon Smart Watch (2015-2016), and Huntus Sharing Economy Platform (2015); and he worked in Basir Tech. (2007)
                     </p>
                     <p class="justified">
                         You can find his CV at this
