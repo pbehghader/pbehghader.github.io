@@ -58,7 +58,7 @@
                         You can contact him at <a href="mailto:pbehnamg@usc.edu">pbehnamg@usc.edu</a> or check <a target="_blank" href="contact.php">contact</a> for further information.
                     </p>
                     <p class="justified">
-                    (Updated January 2016)
+                    (Updated September 2016)
                     </p>
                 </div>
             </div>
