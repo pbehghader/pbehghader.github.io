@@ -113,7 +113,7 @@ of a system’s implementation-level structure as a proxy for its architecture.
                     
                     </div>
                     <p class="justified">
-                    (Updated January 2016)
+                    (Updated September 2016)
                     </p>
                 </div>
             </div>
