@@ -1,0 +1,10 @@
+@INPROCEEDINGS{7180083, 
+author={D. M. Le and P. Behnamghader and J. Garcia and D. Link and A. Shahbazian and N. Medvidovic}, 
+booktitle={2015 IEEE/ACM 12th Working Conference on Mining Software Repositories}, 
+title={An Empirical Study of Architectural Change in Open-Source Software Systems}, 
+year={2015}, 
+pages={235-245}, 
+keywords={object-oriented programming;public domain software;software architecture;software maintenance;architectural decay;component-level architectural change;long-lived systems;open-source software systems;software architecture;software evolution;software maintenance;system-level architectural change;Accuracy;Clustering algorithms;Computer architecture;Measurement;Software systems;System implementation;architectural change;architecture recovery;open-source systems;software architecture;software evolution}, 
+doi={10.1109/MSR.2015.29}, 
+ISSN={2160-1852}, 
+month={May},}
