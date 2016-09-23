@@ -29,7 +29,7 @@
                                     <li>
                                     <p>
                                     <strong>Pooyan Behnamghader</strong>, Duc Le, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic.
-                                    “A Large-Scale Study of Architectural Evolution in Open-Source Software Systems.” Journal of Empirical Software Engineering. In Press.
+                                    “A Large-Scale Study of Architectural Evolution in Open-Source Software Systems.” Journal of Empirical Software Engineering. Accepted/In Press.
                                     <!--
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
@@ -84,7 +84,7 @@
                                 <li>
                                     <p>
 
-                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “<a href="publications/emparch_msr15.pdf">An Empirical Study of Architectural Change in Open-Source Software Systems</a>.” In <i>Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015),</i> Florence, Italy, May 2015.
+                                    Duc Le*, <strong>Pooyan Behnamghader* (co-first author)</strong>, Joshua Garcia, Daniel Link, Arman Shahbazian and Nenad Medvidovic. “An Empirical Study of Architectural Change in Open-Source Software Systems.” In <i>Proceedings of the 12th Working Conference on Mining Software Repositories (MSR 2015),</i> Florence, Italy, May 2015.
                                     <!--
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
