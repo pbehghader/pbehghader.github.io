@@ -5,7 +5,7 @@
         <!--
         <a href="about.php">About</a><span class="hide"> | </span>
         -->
-        <a href="resume/PooyanBehnamghader.pdf">CV</a><span class="hide"> | </span>
+        <a href="resume/PooyanBehnamghader.pdf">Resume</a><span class="hide"> | </span>
         <a href="publications.php">Publications</a><span class="hide"> | </span>
         <a href="research_projects.php">Research Projects</a><span class="hide"> | </span>
         <!--

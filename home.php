@@ -49,7 +49,7 @@
                         Pooyan has some startup experiences. He co-founded Ambermelon Smart Watch (2015-2016) and Huntus Sharing Economy Platform (2015); and he worked with Basir Tech. (2007.)
                     </p>
                     <p class="justified">
-                        You can find his <i>resume</i> at this
+                        You can find his resume at this
                          <!--
                          <a target="_blank" href="resume.php"><strong>web</strong></a> / 
                             -->
