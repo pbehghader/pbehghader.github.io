@@ -89,7 +89,7 @@
                                         M. Moghaddami, <strong>P. Behnamghader</strong>, M. Raisee, "Effects of vortex shedding on the UV-H2O2 photoreactor performance"    <strong>to be submitted</strong>
                                     -->
                                      <!-- Buffer -->
-                                     <a href="publications/emparch_msr15.pdf"><b>PDF</b></a> <a href="publications/emparch_msr15.txt"><b>emparch_msr15.txt</b></a>
+                                     <a href="publications/emparch_msr15.pdf"><b>PDF</b></a> <a href="publications/emparch_msr15.txt"><b>BibTeX</b></a>
                                     <!--
                                     <div class="workDescription">
                                     <ul >
