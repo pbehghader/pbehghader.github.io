@@ -3,8 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <meta name="description" content="Your description goes here" />
-        <meta name="keywords" content="your,keywords,goes,here" />
+        <meta name="description" content="Personal Homepage" />
+        <meta name="keywords" content="PhD,Software,Engineering,University of Tehran,University of Southern California,Pooyan,Behnam,Ghader" />
         <meta name="author" content="Pooyan Behnamghader" />
         <link rel="stylesheet" type="text/css" href="variant-light.css" title="Variant Light" media="screen,projection" />
         <link rel="icon" href="http://www.cs.usc.edu/favicon.ico" type="image/x-icon">
