@@ -4,6 +4,7 @@
     <head>
         <script src="jquery-1.4.2.min.js"></script> 
         <script> $(function(){ $("#includedHeader").load("header.html"); }); </script> 
+        <script> $(function(){ $("#includedTopMenu").load("topmenu.html"); }); </script> 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Personal Homepage" />
         <meta name="keywords" content="PhD,Software,Engineering,University of Tehran,University of Southern California,Pooyan,Behnam,Ghader" />
@@ -15,8 +16,7 @@
 
     <body>
          <div id="includedHeader"></div>
-        <?php include 'header.php'; ?>
-        <?php include 'topmenu.php'; ?>
+         <div id="includedTopMenu"></div>
         <div id="wrap">
             <?php include 'sidebar.php'; ?>
             <!--
