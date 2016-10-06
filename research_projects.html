@@ -1,7 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<?php include 'analytics.php'; ?>
+<div id="includedAnalytics"></div>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
+        <script src="jquery-1.4.2.min.js"></script> 
+        <script src="pooyan.js"></script> 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Your description goes here" />
         <meta name="keywords" content="your,keywords,goes,here" />
@@ -12,10 +14,10 @@
     </head>
 
     <body>
-        <?php include 'header.php'; ?>
-        <?php include 'topmenu.php'; ?>
+        <div id="includedHeader"></div>
+         <div id="includedTopMenu"></div>
         <div id="wrap">
-            <?php include 'sidebar.php'; ?>
+            <div id="includedSideBar"></div>
             <div id="content">
                 <div class="post">
                     <h2>Research Projects</h2>
@@ -127,6 +129,6 @@
                 </div>
             </div>
         </div>
-        <?php include 'footer.php'; ?>
+        <div id="includedFooter"></div>
     </body>
 </html>
