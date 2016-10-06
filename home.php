@@ -2,6 +2,8 @@
 <?php include 'analytics.php'; ?>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
+        <script src="jquery-1.4.2.min.js"></script> 
+    <script> $(function(){ $("#includedHeader").load("header.html"); }); </script> 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Personal Homepage" />
         <meta name="keywords" content="PhD,Software,Engineering,University of Tehran,University of Southern California,Pooyan,Behnam,Ghader" />
@@ -12,6 +14,7 @@
     </head>
 
     <body>
+         <!-- <div id="includedContent"></div> -->
         <?php include 'header.php'; ?>
         <?php include 'topmenu.php'; ?>
         <div id="wrap">
